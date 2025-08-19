@@ -1,2 +1,6 @@
 "# Proyecto-base" 
-"Versi¢n 1.0.0 lista para producci¢n" 
+
+"Versiï¿½n 1.0.0 lista para producciï¿½n" 
+ Nueva funcionalidad: botÃ³n de registro
+
+
